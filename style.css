@@ -337,7 +337,7 @@ margin-top: 40px;
 .info_item p span{
    font-weight: 400;
     margin-left: 4px;
-    display: inline-block;
+    /* display: inline-block; */
 }
 .button{
     margin-top:30px;
